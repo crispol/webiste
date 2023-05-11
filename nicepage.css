@@ -42008,14 +42008,17 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-icon-1 {
+    margin-top: 95px;
     margin-right: auto;
-    margin-left: 126px;
+    margin-left: 125px;
   }
 
   .u-footer .u-icon-2 {
-    margin-top: -31px;
-    margin-right: 104px;
-    margin-left: auto;
+    margin-left: 186px;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: -112px;
   }
 }
 .u-footer .u-icon-1, .u-footer .u-icon-1:before, .u-footer .u-icon-1 > .u-container-layout:before {
